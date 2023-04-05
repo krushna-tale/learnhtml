@@ -6,7 +6,7 @@ public class randamnumbers {
 
         for (int i = 0; i < 10; i++) {
             int randomNum = rand.nextInt(100);
-            System.out.println("Random Number " + (i + 1) + ": " + randomNum);
+            System.out.println("Random Number are" + (i + 1) + ": " + randomNum);
         }
     }
 }
